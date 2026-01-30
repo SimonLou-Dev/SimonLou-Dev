@@ -17,7 +17,7 @@
 ### **Alternance Master (M1 / M2)**
 - **Période :** 2 ans  
 - **Rôle :** DevOps / Team Cloud (gestion d’une équipe outillage)
-- **Entreprise :** [Nestlé Waters Supply Est](https://www.nestle-waters.com/)
+- **Entreprise :** [Direction générale des finances publiques (DGFIP)](https://www.economie.gouv.fr/dgfip)
 - **Missions :**
   - Gestion et animation d’une équipe dédiée à l’outillage (maintenance et évolution).
   - Maintien opérationnel de plusieurs tenants **OpenStack**.
