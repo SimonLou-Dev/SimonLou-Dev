@@ -5,7 +5,7 @@
 
 <h2 align="left">🎒 Formation</h2>
 
-- **Futur master** systèmes réseaux & cloud computing à [l'ESGI de Reims](https://www.esgi.fr/)
+- **Master** systèmes réseaux & cloud computing à [l'ESGI de Reims](https://www.esgi.fr/)
 - **Bachelor 3** en systèmes réseaux & cloud computing à [l'ESGI de Reims](https://www.esgi.fr/)
 - **BTS** systèmes numériques option informatique et réseaux au [lycée Henri Loritz de Nancy](https://sites.ac-nancy-metz.fr/lyc-loritz/)
 - **Baccalauréat général** *(mathématiques, physique-chimie, sciences de l'ingénieur)* au [lycée Claude Gellée d'Épinal](https://lyc-gellee.monbureaunumerique.fr/)
@@ -13,6 +13,18 @@
 ---
 
 <h2 align="left">🏬 Expériences</h2>
+
+### **Alternance Master (M1 / M2)**
+- **Période :** 2 ans  
+- **Rôle :** DevOps / Team Cloud (gestion d’une équipe outillage)
+- **Entreprise :** [Nestlé Waters Supply Est](https://www.nestle-waters.com/)
+- **Missions :**
+  - Gestion et animation d’une équipe dédiée à l’outillage (maintenance et évolution).
+  - Maintien opérationnel de plusieurs tenants **OpenStack**.
+  - Déploiement et automatisation d’infrastructures (**OpenStack**, **Kubernetes**).
+  - Mise en place de pratiques **DevOps** et industrialisation des workflows.
+  - Conception et maintenance de pipelines **CI/CD** pour les outils internes (avec Jenkins).
+  - Développement d’outils internes dédiés à l’exploitation, l’automatisation et l’industrialisation, visant à uniformiser et standardiser les processus des équipes système.
 
 ### **Alternance Bachelor 3**
 - **Période :** 1 an
